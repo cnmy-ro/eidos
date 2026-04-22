@@ -1,6 +1,15 @@
 # Excerpts, Analyses, Insights
 
 
+General insights:
+- Dialectic vs. rhetoric:
+    - Truth-seeking via clarification of concepts vs. instrumental use of inherent ambiguity in language
+    - Socratic investigation vs. sophistry
+    - Logos vs. Mythos
+- Distinction between dialectic and elenchus:
+    - Elenchus: method of refutation of false propositions. Leads to a state of perplexity (aporia). Common in early dialogues.
+    - Dialectic: constructive method aimed at establishing positive propositions. Leads to a doctrine. Common in middle-late dialogues.
+
 
 ## Theaetetus
 
