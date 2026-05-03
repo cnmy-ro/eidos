@@ -3,15 +3,40 @@
 
 
 ## Platonic Dialogues
+26 dialogues
 
 ### Early Period (c. 399–387 BC)
-Apology, Crito, Laches, Lysis, Charmides, Euthyphro, Hippias Minor and Major, Protagoras, Gorgias, Ion
+- Euthyphro
+- Apology
+- Crito
+- Protagoras
+- Gogias
+- Laches
+- Lysis
+- Charmides
+- Hippias Minor and Major
+- Ion
+
 
 ### Middle Period (c. 386–367 BC)
-Meno, Phaedo, Republic, Symposium, Phaedrus, Euthydemus, Menexenus, Cratylus.
+- Phaedo
+- Republic
+- Symposium
+- Phaedrus
+- Cratylus
+- Meno
+- Euthydemus
+- Menexenus 
 
 ### Late Period (c. 366–347 BC)
-Parmenides, Theaetetus, Sophist, Statesman, Timaeus, Critias, Philebus, Laws. 
+- Parmenides
+- Theaetetus 
+- Sophist
+- Statesman
+- Timaeus
+- Critias
+- Philebus
+- Laws
 
 
 
@@ -51,3 +76,7 @@ Parmenides, Theaetetus, Sophist, Statesman, Timaeus, Critias, Philebus, Laws.
 - Algis Uzdavinys - Philosophy as a Rite of Rebirth: From Ancient Egypt to Neoplatonism
 - Eric Perl - Thinking Being: Introduction to Metaphysics in the Classical Tradition
 - Arthur Versluis - Perennial Philosophy; The Mystical State: Politics, Gnosis, and Emergent State; Platonic 
+
+
+# Lectures
+- Michael Sugrue - Plato, Socrates, and the Dialogues (lecture series)
