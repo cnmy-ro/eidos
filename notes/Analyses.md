@@ -17,6 +17,11 @@ General insights:
     - Philia
     - Agape
 - Aporia: state of psychological perplexity as a result of logical contradiction in one's worldview
+- Anamnesis: recollection
+- Paradigms of epistemology:
+    - Correspondence Theory of Truth
+    - Coherence Theory of Truth
+    - Truth as Aletheia/disclosure
 - Multiplicity of the human soul and the potential for its unification:
     - Human organism as a set of processes and drives, each with their own goals
     - Goodness is that under which a person restores internal order and becomes a coherent individual
